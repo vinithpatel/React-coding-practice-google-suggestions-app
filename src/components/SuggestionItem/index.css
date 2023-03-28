@@ -1,0 +1,13 @@
+.suggestion-item {
+  display: flex;
+  justify-content: space-between;
+  height: 35px;
+}
+.arrow-icon {
+  height: 30px;
+  cursor: pointer;
+}
+.suggestion-text {
+  font-size: 16px;
+  font-weight: 400;
+}
